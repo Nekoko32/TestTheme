@@ -1,6 +1,6 @@
 {
     "name": "PurpDark Edit",
-    "description": "Same theme but with background! - Purpdark",
+    "description": "purple",
     "authors": [
         {
             "name": "@nekoko.nya",
@@ -24,13 +24,13 @@
           "#117EED"
       ],
       "INTERACTIVE_NORMAL": [
-          "#222222"
+          "#FFFFFF"
       ],
       "INTERACTIVE_HOVER": [
-          "#222222"
+          "#FFFFFF"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#222222"
+          "#FFFFFF"
       ],
       "INTERACTIVE_MUTED": [
           "#5F5160" 
