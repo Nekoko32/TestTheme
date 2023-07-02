@@ -3,7 +3,7 @@
         "description": "sus",
         "authors": [
                 {
-                        "name": "nekoko.nya",
+                        "name": "@nekoko.nya",
                         "id": "885704567868760104"
                 }
         ],
@@ -95,9 +95,9 @@
                         "#121c22"
                 ],
                 "BACKGROUND_MODIFIER_SELECTED": [
-                        "#08684c",
-                        "#08684c",
-                        "#08684c"
+                        "#cccccc",
+                        "#cccccc",
+                        "#cccccc"
                 ],
                 "BACKGROUND_MODIFIER_ACCENT": [
                       "#131b22",
@@ -151,8 +151,8 @@
                 "BRAND_500": "#005d4b",
                 "BRAND_560": "#5fcbba",
                 "GREEN_360": "#0a5943",
-                "RED_400": "#0ebc85",
-                "YELLOW_300": "#0dbc86",
+                "RED_400": "#e60000",
+                "YELLOW_300": "#ffff66",
                 "PRIMARY_100": "#ffffff",
                 "PRIMARY_600": "#131b22",
                 "PRIMARY_630": "#131b22",
