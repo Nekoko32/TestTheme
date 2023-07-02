@@ -132,9 +132,9 @@
       "BRAND_360": "#D096CF",
       "BRAND_500": "#936195",
       "BRAND_560": "#D096CF",
-      "WHITE_500": "#F0C4FF",
-      "YELLOW_300": "#B569E0",
-      "GREEN_360": "#B569E0",
+      "WHITE_500": "#FFFFFF",
+      "YELLOW_300": "#EBEE0F",
+      "GREEN_360": "#6BF80D",
       "RED_400": "#FC0E61"
 },
     "spec": 2,
