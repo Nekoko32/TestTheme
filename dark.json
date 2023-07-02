@@ -70,9 +70,9 @@
                         "#192327"
                 ],
                 "BACKGROUND_ACCENT": [
-                        "#0ebc84",
-                        "#0ebc84",
-                        "#0ebc84"
+                        "#737373",
+                        "#737373",
+                        "#737373"
                 ],
                 "BACKGROUND_MOBILE_SECONDARY": [
                         "#141b22",
@@ -163,6 +163,6 @@
                 "blur": 0,
                 "url": "https://media.discordapp.net/attachments/1122409252363960391/1125080628841435207/1688310448928.jpg",
                 "alpha": 1,
-                "color": "#005d4b"
+                "color": "#737373"
         }
 }
