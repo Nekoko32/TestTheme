@@ -1,4 +1,3 @@
-
 {
     "name": "PurpDark Edit",
     "description": "Same theme but with background! - Purpdark",
@@ -10,10 +9,10 @@
     ],
     "semanticColors": {
       "HEADER_PRIMARY": [
-          "#D572D0"
+          "#FFFFFF"
       ],
       "HEADER_SECONDARY": [
-          "#D572D0"
+          "#FFFFFF"
       ],
       "TEXT_NORMAL": [
           "#FFFFFF"
