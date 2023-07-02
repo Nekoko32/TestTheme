@@ -1,168 +1,148 @@
 {
-        "name": "Neko",
-        "description": "Make Discord look like Whatsapp. Made for Aliucord by Lanney",
-        "authors": [
-                {
-                        "name": "squat",
-                        "id": "532659532170657792"
-                }
-        ],
-        "spec": 2,
-        "semanticColors": {
-                "HEADER_PRIMRARY": [
-                        "#FEFFFD",
-                        "#FEFFFD",
-                        "#FEFFFD"
-                ],
-                "HEADER_SECONDARY": [
-                        "#BBBCC0",
-                        "#BBBCC0",
-                        "#BBBCC0"
-                ],
-                "TEXT_LINK": [
-                        "#14A083",
-                        "#14A083",
-                        "#14A083"
-                ],
-                "TEXT_NORMAL": [
-                        "#FEFFFD",
-                        "#FEFFFD",
-                        "#FEFFFD"
-                ],
-                "TEXT_MUTED": [
-                        "#A3A6AB",
-                        "#A3A6AB",
-                        "#A3A6AB"
-                ],
-                "INTERACTIVE_NORMAL": [
-                        "#FEFFFD",
-                        "#FEFFFD",
-                        "#FEFFFD"
-                ],
-                "INTERACTIVE_HOVER": [
-                        "#0E151B",
-                        "#0E151B",
-                        "#0E151B"
-                ],
-                "INTERACTIVE_ACTIVE": [
-                        "#FFFFFF",
-                        "#FFFFFF",
-                        "#FFFFFF"
-                ],
-                "BACKGROUND_PRIMRARY": [
-                        "#131b22",
-                        "#131b22",
-                        "#131b22"
-                ],
-                "BACKGROUND_SECONDARY": [
-                        "#222c32",
-                        "#222c32",
-                        "#222c32"
-                ],
-                "BACKGROUND_SECONDARY_ALT": [
-                        "#202d34",
-                        "#202d34",
-                        "#202d34"
-                ],
-                "BACKGROUND_TERTIARY": [
-                        "#192327",
-                        "#192327",
-                        "#192327"
-                ],
-                "BACKGROUND_ACCENT": [
-                        "#0ebc84",
-                        "#0ebc84",
-                        "#0ebc84"
-                ],
-                "BACKGROUND_MOBILE_SECONDARY": [
-                        "#141b22",
-                        "#141b22",
-                        "#141b22"
-                ],
-                "BACKGROUND_FLOATING": [
-                        "#121c22",
-                        "#121c22",
-                        "#121c22"
-                ],
-                "BACKGROUND_MOBILE_PRIMARY": [
-                        "#121c22",
-                        "#121c22",
-                        "#121c22"
-                ],
-                "BACKGROUND_MODIFIER_HOVER": [
-                        "#121c22",
-                        "#121c22",
-                        "#121c22"
-                ],
-                "BACKGROUND_MODIFIER_SELECTED": [
-                        "#08684c",
-                        "#08684c",
-                        "#08684c"
-                ],
-                "BACKGROUND_MODIFIER_ACCENT": [
-                      "#131b22",
-                      "#131b22",
-                      "#131b22"  
-                ],
-                "CHANNEL_ICON": [
-                        "#84989f",
-                        "#84989f",
-                        "#84989f"
-                ],
-                "SCROLLBAR_THIN_THUMB": [
-                        "#838b8e",
-                        "#838b8e",
-                        "#838b8e"
-                ],
-                "SCROLLBAR_THIN_TRACK": [
-                        "#838b8e",
-                        "#838b8e",
-                        "#838b8e"
-                ],
-                "SCROLLBAR_AUTO_THUMB": [
-                        "#838b8e",
-                        "#838b8e",
-                        "#838b8e"
-                ],
-                "SCROLLBAR_AUTO_TRACK": [
-                        "#838b8e",
-                        "#838b8e",
-                        "#838b8e"
-                ],
-                "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-                        "#858b92",
-                        "#858b92",
-                        "#858b92"
-                ],
-                "SPOILER_HIDDEN_BACKGROUND": [
-                        "#292e31",
-                        "#292e31",
-                        "#292e31"
-                ],
-                "BACKGROUND_NESTED_FLOATING": [
-                        "#121c22",
-                        "#121c22",
-                        "#121c22"
-                ]
-
-        },
-        "rawColors": {
-                "BRAND_260": "#005d4b",
-                "BRAND_500": "#005d4b",
-                "BRAND_560": "#5fcbba",
-                "GREEN_360": "#0a5943",
-                "RED_400": "#0ebc85",
-                "YELLOW_300": "#0dbc86",
-                "PRIMARY_100": "#ffffff",
-                "PRIMARY_600": "#131b22",
-                "PRIMARY_630": "#131b22",
-                "PRIMARY_800": "#131c22",
-                "PRIMARY_700": "#131c22"
-        },
-        "background": {
-                "blur": 0,
-                "url": "https://media.discordapp.net/attachments/1048297353641213982/1113677799962705930/84e624b59f5544f5df331744292cd7e8.jpg",
-                "alpha": 1,
-                "color": "#005d4b"
+    "name": "PurpDark Edit",
+    "description": "Same theme but with background! - Purpdark",
+    "authors": [
+        {
+            "name": "@nekoko.nya",
+            "id": "885704567868760104"
         }
+    ],
+    "semanticColors": {
+      "HEADER_PRIMARY": [
+          "#D572D0"
+      ],
+      "HEADER_SECONDARY": [
+          "#D572D0"
+      ],
+      "TEXT_NORMAL": [
+          "#FFFFFF"
+      ],
+      "TEXT_MUTED": [
+          "#5E5E5E"
+      ],
+      "TEXT_LINK": [
+          "#117EED"
+      ],
+      "INTERACTIVE_NORMAL": [
+          "#C599C3"
+      ],
+      "INTERACTIVE_HOVER": [
+          "#B988BC"
+      ],
+      "INTERACTIVE_ACTIVE": [
+          "#FDC5FA"
+      ],
+      "INTERACTIVE_MUTED": [
+          "#5F5160" 
+      ],
+      "BACKGROUND_PRIMARY": [
+          "#282828"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#222222"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#222222"
+      ],
+      "BACKGROUND_TERTIARY": [
+          "#282828"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#704A6E"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#222222"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+          "#222222"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+          "#222222"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+          "#222222"
+      ],
+     
+      "BACKGROUND_MESSAGE_HOVER": [
+          "#292929"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+          "#292929"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#7D427A"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+          "#7D427A"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#484848"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+          "#26273b"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+          "transparent"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+          "#DAB3D8"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+          "#DAB3D8"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+          "#242424"
+      ],
+      "CHANNELS_DEFAULT": [
+          "#9E769C"
+      ],
+      "TEXT_DANGER": [
+          "#FC0E61"
+      ],
+      "KEYBOARD": [
+          "#282828"
+      ],
+      "CHANNEL_ICON": [
+          "#C6B3C5"
+      ],
+      "CHAT_BACKGROUND": [
+          "#282828"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+        "#4B4B4B"
+      ],
+      "SPOILER_REVEALED_BACKGROUND": [
+        "#5E5E5E"
+      ]
+  },
+  "rawColors": {
+      "PRIMARY_100": "#FDD8FB",
+      "PRIMARY_200": "#947592",
+      "PRIMARY_300": "#D572D0",
+      "PRIMARY_360": "#C272F0",
+      "PRIMARY_400": "#7114EE",
+      "PRIMARY_500": "#5F3A70",
+      "PRIMARY_600": "#282828",
+      "PRIMARY_630": "#2F2F2F",
+      "PRIMARY_660": "#2F2F2F",
+      "PRIMARY_700": "#282828",
+      "PRIMARY_800": "#282828",
+  
+      "BRAND_260": "#936195",
+      "BRAND_360": "#D096CF",
+      "BRAND_500": "#936195",
+      "BRAND_560": "#D096CF",
+      "WHITE_500": "#F0C4FF",
+      "YELLOW_300": "#B569E0",
+      "GREEN_360": "#B569E0",
+      "RED_400": "#FC0E61"
+},
+    "spec": 2,
+    "background": {
+      "blur": 0,
+      "url": "https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Purpdark/PurpDark_BG/background.jpg",
+      "alpha": 0.9,
+      "color": "#282828"
+  
+    }
 }
