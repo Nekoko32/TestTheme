@@ -281,8 +281,8 @@
             "#b4befe"
         ],
         "TEXT_LINK_LOW_SATURATION": [
-            "#fbf1c7",
-            "#fbf1c7"
+            "#0073ff",
+            "#0073ff"
         ],
         "TEXT_MUTED": [
             "#85876D",
@@ -315,19 +315,19 @@
         "PRIMARY_700": "#3C3836",
         "PRIMARY_800": "#282828",
         "PRIMARY_900": "#282828",
-        "WHITE_500": "#F3E3BA",
+        "WHITE_500": "#FFFFFF",
         "BRAND_260": "#E9B872",
         "BRAND_360": "#E9B872",
         "BRAND_500": "#E8AC41",
         "BRAND_560": "#A07F50",
-        "RED_400": "#E8AC41",
-        "GREEN_360": "#908A71"
+        "RED_400": "#FF0000",
+        "GREEN_360": "#21d952"
 },
-    "spec": 2,
+    "spec": 2.5,
     "background": {
       "blur": 0,
-      "url": "https://cdn.discordapp.com/attachments/1122409252363960391/1125264269437579315/1688354201073.jpg",
-      "alpha": 0.9,
+      "url": "https://media.discordapp.net/attachments/1122409252363960391/1125256808458629220/727d2919fb51b673bdbd06cb0fa18906.jpg",
+      "alpha": 2,
       "color": "#fbf1c7"
   
     }
