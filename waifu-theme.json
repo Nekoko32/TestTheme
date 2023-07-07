@@ -9,20 +9,20 @@
     ],
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
-            "#FF0000",
-            "#FF0000"
+            "#878F90",
+            "#878F90"
         ],
         "BACKGROUND_FLOATING": [
-            "#3c3836",
-            "#3c3836"
+            "##E7E8E8",
+            "##E7E8E8"
         ],
         "BACKGROUND_MENTIONED": [
-            "#374863",
-            "#374863"
+            "#E7E8E8",
+            "#E7E8E8"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#a39971",
-            "#a39971"
+            "#2E2E2E",
+            "#2E2E2E"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#3a4d63",
@@ -37,8 +37,8 @@
             "#282828"
         ],
         "BACKGROUND_ACCENT": [
-            "#E8AC41",
-            "#E8AC41"
+            "##C0C0C0",
+            "#C0C0C0"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#282828",
@@ -77,16 +77,16 @@
             "#212121"
         ],
         "CHANNEL_ICON": [
-            "#83a598",
-            "#83a598"
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#908A71",
-            "#908A71"
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#282828",
-            "#282828"
+            "#191919",
+            "#191919"
         ],
         "DEPRECATED_CARD_BG": [
             "#282828",
@@ -105,8 +105,8 @@
             "#282828"
         ],
         "DEPRECATED_STORE_BG": [
-            "#fbf1c7",
-            "#fbf1c7"
+            "#464646",
+            "#464646"
         ],
         "DEPRECATED_TEXT_INPUT_BG": [
             "#282828",
@@ -157,8 +157,8 @@
             "#FFFFE0"
         ],
         "HEADER_SECONDARY": [
-            "#E9B872",
-            "#E9B872"
+            "#ECECEC",
+            "#ECECEC"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#282828",
@@ -323,11 +323,11 @@
         "RED_400": "#FF0000",
         "GREEN_360": "#21d952"
 },
-    "spec": 2.5,
+    "spec": 1,
     "background": {
-      "blur": 0,
+      "blur": 2,
       "url": "https://media.discordapp.net/attachments/1122409252363960391/1125256808458629220/727d2919fb51b673bdbd06cb0fa18906.jpg",
-      "alpha": 2,
+      "alpha": 1,
       "color": "#fbf1c7"
   
     }
