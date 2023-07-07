@@ -13,12 +13,12 @@
             "#878F90"
         ],
         "BACKGROUND_FLOATING": [
-            "##E7E8E8",
-            "##E7E8E8"
+            "##2E2E2E",
+            "##2E2E2E"
         ],
         "BACKGROUND_MENTIONED": [
-            "#E7E8E8",
-            "#E7E8E8"
+            "#2E2E2E",
+            "#2E2E2E"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#2E2E2E",
@@ -305,24 +305,7 @@
             "#282828"
         ]
     },
-    "rawColors": {
-        "PRIMARY_500": "#504945",
-        "PRIMARY_100": "#908A71",
-        "PRIMARY_300": "#908a71",
-        "PRIMARY_400": "#85876D",
-        "PRIMARY_600": "#282828",
-        "PRIMARY_630": "#282828",
-        "PRIMARY_700": "#3C3836",
-        "PRIMARY_800": "#282828",
-        "PRIMARY_900": "#282828",
-        "WHITE_500": "#FFFFFF",
-        "BRAND_260": "#E9B872",
-        "BRAND_360": "#E9B872",
-        "BRAND_500": "#E8AC41",
-        "BRAND_560": "#A07F50",
-        "RED_400": "#FF0000",
-        "GREEN_360": "#21d952"
-},
+
     "spec": 1,
     "background": {
       "blur": 2,
